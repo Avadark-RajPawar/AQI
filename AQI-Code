@@ -1,9 +1,7 @@
 #define BLYNK_TEMPLATE_ID "TMPLHXzMhlWv"
 #define BLYNK_DEVICE_NAME "AIR QI"
 
-
 #define BLYNK_PRINT Serial
-
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 #include <DHT.h>
